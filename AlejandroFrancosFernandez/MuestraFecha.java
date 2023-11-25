@@ -18,6 +18,7 @@ public class MuestraFecha {
         
          Date hoy=new Date();
          System.out.println(hoy);
+	 System.out.println("Haciendo prueba")
          
          LocalDate today=LocalDate.now();
          System.out.println(today);
